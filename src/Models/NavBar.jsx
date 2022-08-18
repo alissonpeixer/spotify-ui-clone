@@ -3,7 +3,7 @@ import { HamburgerCollapse } from 'react-animated-burgers'
 import { BrowserView, MobileView } from 'react-device-detect';
 
 
-
+const hoverStyle = 'hover:text-greenForte'
 
 
 
@@ -62,12 +62,12 @@ export function NavBar() {
               <div className='text-[0]'>
                 <div className='xl:text-xl '>
                     <ul className='flex flex-row text-white pt-1 space-x-10  lg:pt-' >
-                      <li className='hover:text-greenForte'><a href="">Premium</a></li>
-                      <li className='hover:text-greenForte'><a href="">Suporte</a></li>
-                      <li className='hover:text-greenForte'><a href="">Baixar</a></li>
-                      <li className='liDiv'></li>
-                      <li className='hover:text-greenForte'><a href="">Inscrever-ser</a></li>
-                      <li className='hover:text-greenForte'><a href="">Entrar</a></li>
+                      <li className={hoverStyle}><a href="">Premium</a></li>
+                      <li className={hoverStyle}><a href="">Suporte</a></li>
+                      <li className={hoverStyle}><a href="">Baixar</a></li>
+                      <li className={hoverStyle}></li>
+                      <li className={hoverStyle}><a href="">Inscrever-ser</a></li>
+                      <li className={hoverStyle}><a href="">Entrar</a></li>
                     </ul>
                 </div>
               </div>
