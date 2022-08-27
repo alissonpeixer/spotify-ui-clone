@@ -1,4 +1,5 @@
-# spotify-web-clone-react
+![MasterHead](https://media.discordapp.net/attachments/902734948270759937/1013090078677024848/Banner.png)
+# Clone Ui homepage Spotify 
 👋 Hi, i'm a Junior Developer
 
 
