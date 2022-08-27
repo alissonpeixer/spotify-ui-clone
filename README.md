@@ -1,12 +1,8 @@
 # spotify-web-clone-react
+👋 Hi, i'm a Junior Developer
 
 
-#### 🔥 Projeto em progresso
-#### 🔥 Project in progress
-
-#
-
-# Clone Project
+### Clone Project
 `NodeJs Version >= 12.0.0`
 
 Clone project
@@ -43,17 +39,5 @@ Clone project
   
   ```
 
-#
-####  👋 Olá, sou um Desenvolvedor Junior
-####  Estou recriando a home do site oficial do Spotify, com RectJs.
+Code ❤️ by Alisson 
 
-
-#
-
-#
-
-#### 👋 Hi, i'm a Junior Developer
-### I'm recreating Spotify's official website home, with RectJs.
-
-#
-Feito com ❤️ by Alisson 
